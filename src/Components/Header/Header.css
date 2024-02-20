@@ -1,0 +1,7 @@
+.logo {
+    background: red;
+}
+.navbar-text,
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #fff;
+}
